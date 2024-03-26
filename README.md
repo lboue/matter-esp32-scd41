@@ -48,7 +48,7 @@ SDK Version
 ---
 - esp-idf: [v5.1.2](https://github.com/espressif/esp-idf/tree/v5.1.2)
 - esp-matter: [fe4f9f69634b060744f06560b7afdaf25d96ba37](https://github.com/espressif/esp-matter/commit/fe4f9f69634b060744f06560b7afdaf25d96ba37)
-- connectedhomeip: [d38a6496c3abeb3daf6429b1f11172cfa0112a1a](https://github.com/project-chip/connectedhomeip/tree/d38a6496c3abeb3daf6429b1f11172cfa0112a1a)
+- connectedhomeip: [d38a6496c3](https://github.com/project-chip/connectedhomeip/tree/d38a6496c3)
   - Matter 1.1 released (2023.05.18)
   - Matter 1.2 released (2023.10.23)
 
